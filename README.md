@@ -1,2 +1,2 @@
-# iamharshit
+# hi there
 Harshit Kaushal Portfolio
